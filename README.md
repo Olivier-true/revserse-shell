@@ -61,13 +61,13 @@ If You Don't see : https://github.0xsql.repl.co/reverse_shell.gif
 
 ##### - MessageBox and SendKeys
 If You Don't see : https://github.0xsql.repl.co/send_keys_and_msgb.gif
-example of command
+<br> example of command
 msgb>/Your Message
 SKS>/Your Keys
 
 ##### - remote-desktop
 If You Don't see : https://github.0xsql.repl.co/remote-desktop.gif
-For remote-desktop start server-remote-video.exe in remote-video\server-remote-video\server\bin\Debug
+<br> For remote-desktop start server-remote-video.exe in remote-video\server-remote-video\server\bin\Debug
 and execute the command on server.exe :
 remote-desktop>/<Your IP Address>:8081
 
