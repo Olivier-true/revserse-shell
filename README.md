@@ -67,7 +67,7 @@ msgb>/Your Message
 SKS>/Your Keys
 
 ##### - remote-desktop
-check for in this repositery remote-desktop.gif
+####check for in this repositery remote-desktop.gif
 <br> For remote-desktop start server-remote-video.exe in remote-video\server-remote-video\server\bin\Debug
 and execute the command on server.exe :
 remote-desktop>/<Your IP Address>:8081
