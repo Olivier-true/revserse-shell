@@ -61,7 +61,7 @@ Si vous ne le voyez pas : https://github.0xsql.repl.co/send_keys_and_msgb.gif
 Exemple de commande msgb>/Votre Message SKS>/Vos Clés
 
 ##### remote-desktop
-voir dans le repositry : remote-desktop.gif
+#### voir dans le repositry : remote-desktop.gif
 Pour démarrer le bureau à distance, exécutez server-remote-video.exe dans remote-video\server-remote-video\server\bin\Debug et exécutez la commande sur server.exe : remote-desktop>/:8081
 
 #### Avertissement
