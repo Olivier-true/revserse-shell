@@ -56,7 +56,7 @@ Example:
 #### For information, the videos were recorded on the same machine with real-time threat protection enabled [without sending samples], but it is indeed CLIENT.EXE that performs the actions.
 
 ##### - reverse shell
-If You Don't see : <p><a target="_blank" href="https://github.0xsql.repl.co/reverse_shell.gif">reverse_shell.gif</a></p>
+If You Don't see : <a target="_blank" href="https://github.0xsql.repl.co/reverse_shell.gif">reverse_shell.gif</a>
 <img src="https://github.0xsql.repl.co/reverse_shell.gif">
 
 ##### - MessageBox and SendKeys
