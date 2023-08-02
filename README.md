@@ -52,10 +52,10 @@ Example:
 ```IP:Port
 1.2.3.4:8080
 ```
-###Demonstration
+### Demonstration
 #### For information, the videos were recorded on the same machine with real-time threat protection enabled [without sending samples], but it is indeed CLIENT.EXE that performs the actions.
 
-#####- reverse shell
+##### - reverse shell
 If You Don't see : https://github.0xsql.repl.co/reverse_shell.gif
 <img src="https://github.0xsql.repl.co/reverse_shell.gif">
 
@@ -71,5 +71,5 @@ If You Don't see : https://github.0xsql.repl.co/remote-desktop.gif
 and execute the command on server.exe :
 remote-desktop>/<Your IP Address>:8081
 
-####Disclaimer
+#### Disclaimer
 This project is published for educational and research purposes. The author is not responsible for any misuse of this tool.
