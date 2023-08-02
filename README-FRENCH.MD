@@ -14,6 +14,8 @@ Ce projet est une démonstration d'une reverse shell écrite en C#. Il s'agit d'
 4. Fonctionnalités supplémentaires : Le code comprend des fonctionnalités supplémentaires telles que l'envoi de frappes de clavier, l'affichage de boite de messages, l'exécution de commandes de manière asynchrone, la capture d'écran à distance et le chargement de librarie .NET à partir d'URL.
 
 5. Persistante : Le code tente de rendre la reverse shell persistante en ajoutant une entrée au registre Windows pour exécuter le programme au démarrage de la session de l'utilisateur. Il copie également le fichier exécutable dans un répertoire caché.
+
+
 ####Utilisation
 Pour télécharger .Net 7.0 en version portable, voir ici : https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.306-windows-x64-binaries
 lien directe : https://download.visualstudio.microsoft.com/download/pr/3c443568-43b0-40b1-bb5c-3a6d8cd31876/e7d6c5b176b1c985a5f972dbf2c721b3/dotnet-sdk-7.0.306-win-x64.zip
