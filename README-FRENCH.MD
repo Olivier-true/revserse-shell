@@ -56,8 +56,8 @@ ex :
 <img src="https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true">
 
 ##### MessageBox et SendKeys
-Si vous ne le voyez pas : https://github.0xsql.repl.co/send_keys_and_msgb.gif
-<img src="https://github.0xsql.repl.co/send_keys_and_msgb.gif">
+Si vous ne le voyez pas : https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif
+<img src="https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif">
 Exemple de commande msgb>/Votre Message SKS>/Vos Clés
 
 ##### remote-desktop
