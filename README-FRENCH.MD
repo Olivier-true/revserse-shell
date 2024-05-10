@@ -52,8 +52,8 @@ ex :
 
 #### Pour information, les vidéos ont été enregistrées sur la même machine avec la protection en temps réel activée [sans envoyer d'échantillons], mais c'est bien CLIENT.EXE qui effectue les actions.
 
-##### - Reverse Shell Si vous ne le voyez pas : https://github.0xsql.repl.co/reverse_shell.gif
-<img src="https://github.0xsql.repl.co/reverse_shell.gif">
+##### - Reverse Shell Si vous ne le voyez pas : https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true
+<img src="https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true">
 
 ##### MessageBox et SendKeys
 Si vous ne le voyez pas : https://github.0xsql.repl.co/send_keys_and_msgb.gif
