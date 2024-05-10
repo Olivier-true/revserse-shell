@@ -63,6 +63,7 @@ Exemple de commande msgb>/Votre Message SKS>/Vos Clés
 ##### remote-desktop
 #### voir dans le repositry : remote-desktop.gif
 Pour démarrer le bureau à distance, exécutez server-remote-video.exe dans remote-video\server-remote-video\server\bin\Debug et exécutez la commande sur server.exe : remote-desktop>/:8081
+<img src="https://github.com/Olivier-true/revserse-shell/blob/main/remote-desktop.gif?raw=true">
 
 #### Avertissement
 
