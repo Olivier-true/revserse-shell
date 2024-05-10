@@ -60,8 +60,8 @@ If You Don't see : <a target="_blank" href="https://github.com/Olivier-true/revs
 <img src="https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true">
 
 ##### - MessageBox and SendKeys
-If You Don't see : https://github.0xsql.repl.co/send_keys_and_msgb.gif
-<img src="https://github.0xsql.repl.co/send_keys_and_msgb.gif">
+If You Don't see : https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif
+<img src="https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif">
 <br> example of command
 msgb>/Your Message
 SKS>/Your Keys
