@@ -78,3 +78,6 @@ This project is published for educational and research purposes. The author is n
 
 
 <p align="center"><img src="https://ipipip-gh.0xsql.repl.co/reverse-shell/views.png" alt="Visitors"></a></p>
+
+##### Donate ☕
+<a style="color: blue; text-decoration: none;" target="_blank" href="https://paypal.me/L3glight"><img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="16" height="16">&nbsp;&nbsp;Paypal</a>
