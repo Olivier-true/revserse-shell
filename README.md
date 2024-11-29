@@ -56,12 +56,12 @@ Example:
 #### For information, the videos were recorded on the same machine with real-time threat protection enabled [without sending samples], but it is indeed CLIENT.EXE that performs the actions.
 
 ##### - reverse shell
-If You Don't see : <a target="_blank" href="https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true">reverse_shell.gif</a>
-<img src="https://github.com/Olivier-true/revserse-shell/blob/main/reverse_shell.gif?raw=true">
+If You Don't see : <a target="_blank" href="https://github.com/Olivier-true/reverse-shell/blob/main/reverse_shell.gif?raw=true">reverse_shell.gif</a>
+<img src="https://github.com/Olivier-true/reverse-shell/blob/main/reverse_shell.gif?raw=true">
 
 ##### - MessageBox and SendKeys
 If You Don't see : https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif
-<img src="https://raw.githubusercontent.com/Olivier-true/revserse-shell/main/send_keys_and_msgb.gif">
+<img src="https://raw.githubusercontent.com/Olivier-true/reverse-shell/main/send_keys_and_msgb.gif">
 <br> example of command
 msgb>/Your Message
 SKS>/Your Keys
@@ -69,7 +69,7 @@ SKS>/Your Keys
 ##### - remote-desktop
 #### check for in this repositery remote-desktop.gif
 <br> For remote-desktop start server-remote-video.exe in remote-video\server-remote-video\server\bin\Debug
-<img src="https://github.com/Olivier-true/revserse-shell/blob/main/remote-desktop.gif?raw=true">
+<img src="https://github.com/Olivier-true/reverse-shell/blob/main/remote-desktop.gif?raw=true">
 and execute the command on server.exe :
 remote-desktop>/<Your IP Address>:8081
 
